@@ -1,0 +1,23 @@
+.hed{
+  color: brown;
+  text-align: center;
+}
+
+.slider-container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+.card-slide {
+  padding: 10px;
+}
+
+.card {
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
